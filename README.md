@@ -1,6 +1,6 @@
 # Risky Business
  
-![Credit Risk](Images/credit-risk.jpg)
+![Credit Risk](resources/credit-risk.jpg)
 
 ## Background
 
